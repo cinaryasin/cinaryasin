@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cnr.yasin@outlook.com
 - 😄 Pronouns: Her
 
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-%C3%A7inar-35538a1b3/)
