@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=cinaryasin&show_icons=true&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet,vscode,py,selenium,rabbitmq,redis,docker,angular,ts,js,jquery,html,css,sass,bootstrap,materialui,stackoverflow,github,react,eclipse,java,spring,mongodb,postgres,postman&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet,vscode,py,selenium,rabbitmq,redis,docker,angular,ts,js,jquery,html,css,sass,bootstrap,materialui,stackoverflow,github,react,eclipse,java,spring,mongodb,postgres,postman&perline=7)](https://skillicons.dev)
