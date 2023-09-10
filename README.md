@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=cinaryasin&show_icons=true&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=angular,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
